@@ -30,7 +30,7 @@ Dataset used:
 You’ll need the UCI ML Parkinsons dataset for this; you can <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/">download it here.</a> The dataset has 24 columns and 195 records and is only 39.7 KB.
 
 
-## Other Algorithms which we used to analyse the data, and draw comparisons between the results:
+## Other Algorithms which we used to analyse the data, and drew comparisons between the results:
 
 ## Beginners:
 <h6 align="center"><br>logistic regression<br></h6>

@@ -4,7 +4,6 @@
 - 🔭 We are currently working on <a href="https://github.com/Bhushan-Wagh025/Team-Data_Science">**Team-Data_Science**</a>
 
 - 👯 HackBio Channel [https://hackbio-internship.github.io/webpage-test/](https://hackbio-internship.github.io/webpage-test/)
-- 📫 How to reach us **waghbhushan1123@gmail.com**
 
 <h3 align="left">Language:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>

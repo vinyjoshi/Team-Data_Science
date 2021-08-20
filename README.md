@@ -30,10 +30,10 @@ Dataset used:
 You’ll need the UCI ML Parkinsons dataset for this; you can <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/">download it here.</a> The dataset has 24 columns and 195 records and is only 39.7 KB.
 
 
-## Other Algorithms which you have to use to analyse the data after we have used XGBClassifier, and draw comparisons between the results (choose any one) :
+## Other Algorithms which we hused to analyse the data, and draw comparisons between the results:
 
 ## Beginners:
-<h5 align="center"><br>logistic regression<br></h5>
+<h6 align="center"><br>logistic regression<br></h6>
 
 ## Intermediate/Advanced:
 <h6 align="center">k-nearest neighbors<br>
